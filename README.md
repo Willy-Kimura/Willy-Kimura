@@ -8,9 +8,9 @@
     />
   </a>
 </div>
-👋🏾 Hi! Many thanks for stopping by! My name is Wilfred (Willy) Kimura. I **love** building products. As an expert, continuing in perfection towards product design, prototyping, full-stack development, testing and deployment, I innovate through the entire cycle architecting all the elements and components involved. A little bit about me: I'm a software engineer & product manager with a solid 9+ years experience in both designing and building reputable + scalable software. I have in the recent past authored popular utilities, premium applications and open-source libraries (as you might see here). My achievements have focused around building high impact products among various value chains including, but not limited to: developer tools, UI components (including gaming), product licensing, transportation, and end-user utilities (e.g. Desktop software). I also provide consulting, product innovation and development services for companies and startups whenever needed.
+👋🏾 Hi! Many thanks for stopping by! My name is Wilfred (Willy) Kimura. I love building products. As an expert, continuing in perfection towards product design, prototyping, full-stack development, testing and deployment, I innovate through the entire cycle architecting all the elements and components involved. A little bit about me: I'm a software engineer & product manager with a solid 9+ years experience in both designing and building reputable + scalable software. I have in the recent past authored popular utilities, premium applications and open-source libraries (as you might see here). My achievements have focused around building high impact products among various value chains including, but not limited to: developer tools, UI components (including gaming), product licensing, transportation, and end-user utilities (e.g. Desktop software). I also provide consulting, product innovation and development services for companies and startups whenever needed.
 
-
+<br/>
 
 *Feel free to hit me up for any opportunities, assistance, and/or consultation. Many thanks!* 😊
 
