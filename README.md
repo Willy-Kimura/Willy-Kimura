@@ -1,6 +1,6 @@
 # Hello, Willy here!
 
-👋🏾 Hi! Many thanks for stopping by! My name is Wilfred (Willy) Kimura. I love building products. As an expert, continuing in perfection towards product design, prototyping, full-stack development, testing and deployment, I innovate through the entire cycle architecting all the elements and components involved.
+👋 Many thanks for stopping by! Name is Willy Kimura, and I simply love building products.
 
 <br/>
 
